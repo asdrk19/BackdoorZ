@@ -2,8 +2,11 @@
 
 # Özellikler:
 -Ses kaydetme
+
 -Video kaydetme
+
 -Fotoğraf çekme
+
 -Ekran kaydı alma
 -Ekran fotoğrafı çekme
 -Keylogger
