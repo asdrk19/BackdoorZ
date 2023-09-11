@@ -1,6 +1,6 @@
 # BackdoorZ
 
-## Özellikler:
+# Özellikler:
 -Ses kaydetme
 -Video kaydetme
 -Fotoğraf çekme
